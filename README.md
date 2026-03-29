@@ -1,11 +1,10 @@
 ### Olá, sou Henrique Torres👋
 
-- 🔭 Trabalho com Design Gráfico
-- 🧠 Atualmente estou aprendendo HTML, CSS e JS.
-- 📨 Contate-me no e-mail: henrique.torres15@gmail.com
-- 😄 Pronomes: ele/ dele
-- ⚡ Curiosidade: Também sou ótimo em modelagem 3D.
-- 📅 Projetos futuro: Já tô ligado no Metaverso, e tô experimentando criar algo. 
+-  Trabalho com Inteligência Artificil para negócios
+-  Python, Java Script, React, Fabric.js and Konva.js
+-  UI & UX Design
+-  Contate-me no e-mail: henrique.torres15@gmail.com
+-  Pronomes: ele/ dele
 -->
 
 <div align="center">
