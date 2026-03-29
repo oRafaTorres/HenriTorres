@@ -1,4 +1,4 @@
-### Olá, sou Henrique Torres👋
+### Olá, sou o Rafa Torres👋
 
 -  Trabalho com Inteligência Artificil para negócios
 -  Python, Java Script, React, Fabric.js and Konva.js
